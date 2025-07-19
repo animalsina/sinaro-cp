@@ -10,7 +10,7 @@
 
 
 
-### ⚙️ Tecnologie utilizzate
+### ⚙️ Used Tecnologies
 
 - PHP 8.4
 - Laravel 12
