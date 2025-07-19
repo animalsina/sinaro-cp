@@ -82,6 +82,11 @@ The container includes everything: web server, PHP, databases and ready-to-use c
 
 ---
 
+## Demo of the CP
+[SinaRO CP](https://rocp.animalsina.work)
+
+---
+
 ## 🪪 License
 
 This project is proprietary.  
