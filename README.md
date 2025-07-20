@@ -6,7 +6,7 @@
 ![PHP](https://img.shields.io/badge/PHP-8.4-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
 ![MySQL](https://img.shields.io/badge/MySQL-lightgrey)
-![License](https://img.shields.io/badge/license-Custom-lightgrey)
+![License: SinaRO CP](https://img.shields.io/badge/license-SinaRO_CP_v1.2-blue)
 
 
 
