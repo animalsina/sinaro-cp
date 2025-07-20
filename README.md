@@ -93,4 +93,4 @@ This project is proprietary.
 You are allowed to use and modify it for **personal or private use only**.
 
 Any commercial use, redistribution, or resale is **strictly forbidden** without written permission.  
-See [LICENSE.txt](LICENSE.txt) for full terms.
+See [LICENSE](LICENSE) for full terms.
